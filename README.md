@@ -2,15 +2,23 @@
 
 Ticket booking app. Just for learning purposes
 
-## Getting Started
+This ticket booking app covers Flutter for very beginners to advanced learners. We start from very simple ui like drawing text to complex layout using stack and mixture of column and row widget.
 
-This project is a starting point for a Flutter application.
+We also built reusable widget to reduce code amount.  So at the end of this tutorial you learn how to build simple to complex reusable flutter widgets.
 
-A few resources to get you started if this is your first Flutter project:
+The widgets we built in this tutorial
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. reusable style component
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. reusable color pallet
+
+3. reusable column widget
+
+4. reusable layout builder widget
+
+5. reusable column widget
+
+6. reusable row widget
+
+7. reusable ticket widget
+
