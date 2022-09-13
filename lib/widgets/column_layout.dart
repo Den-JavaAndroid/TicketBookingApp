@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
@@ -27,14 +25,18 @@ class AppColumnLayout extends StatelessWidget {
       crossAxisAlignment: alignment,
       children: [
         Text(
-          style: isColor == null?  Styles.headLineStyle3:Styles.headLineStyle3.copyWith(color: Colors.white),
+          style: isColor == null
+              ? Styles.headLineStyle3
+              : Styles.headLineStyle3.copyWith(color: Colors.white),
           firstText,
           // style: Styles.headLineStyle3,
         ),
         Gap(AppLayout.getHeight(5)),
         Text(
           secondText,
-            style: isColor==null?Styles.headLineStyle4:Styles.headLineStyle4.copyWith(color: Colors.white),
+          style: isColor == null
+              ? Styles.headLineStyle4
+              : Styles.headLineStyle4.copyWith(color: Colors.white),
         ),
       ],
     );
