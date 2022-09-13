@@ -28,7 +28,7 @@ The widgets we built in this tutorial
 ![Search](assets/app_screens/SearchScreen.jpg?raw=true "Home")
 
 
-![Tickets](assets/app_screens/TicketsScreen.jpg?raw=true "Home")
+![Tickets](assets/app_screens/TicketScreen.jpg?raw=true "Home")
 
 
 ![Profile](assets/app_screens/ProfileScreen.jpg?raw=true "Home")
