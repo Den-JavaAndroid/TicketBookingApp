@@ -22,4 +22,13 @@ The widgets we built in this tutorial
 
 7. reusable ticket widget
 
-![Alt text](assets/app_screens/HomeScreen.jpg?raw=true "Home")
+![Home](assets/app_screens/HomeScreen.jpg?raw=true "Home")
+
+
+![Search](assets/app_screens/SearchScreen.jpg?raw=true "Home")
+
+
+![Tickets](assets/app_screens/TicketsScreen.jpg?raw=true "Home")
+
+
+![Profile](assets/app_screens/ProfileScreen.jpg?raw=true "Home")
